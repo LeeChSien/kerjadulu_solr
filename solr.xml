@@ -4,5 +4,7 @@
     <core name="default"     instanceDir="." dataDir="default/data"/>
     <core name="development" instanceDir="." dataDir="development/data"/>
     <core name="test"        instanceDir="." dataDir="test/data"/>
+    <core name="production"  instanceDir="." dataDir="test/production"/>
+    <core name="staging"     instanceDir="." dataDir="test/staging"/>
   </cores>
 </solr>
